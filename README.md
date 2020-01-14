@@ -6,5 +6,5 @@ This project is a License-Plate Detection (LPD) application for vision-based Int
 - Python v.3
 
 # Contributors
-[Sajjad Soroori](https://github.com/SajjadSo "Sajjad Soroori")
-[Ali Tourani](https://github.com/alitourani "Ali Tourani")
+- [Sajjad Soroori](https://github.com/SajjadSo "Sajjad Soroori")
+- [Ali Tourani](https://github.com/alitourani "Ali Tourani")
