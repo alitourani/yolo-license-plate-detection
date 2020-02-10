@@ -6,6 +6,7 @@ This project is a License-Plate Detection (LPD) application for vision-based Int
 
 # Environment
 - Python v.3
+- You Only Look Once (YOLO) v.3
 
 # Contributors
 - [Sajjad Soroori](https://github.com/SajjadSo "Sajjad Soroori")
