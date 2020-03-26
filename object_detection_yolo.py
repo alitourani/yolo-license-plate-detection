@@ -1,8 +1,5 @@
 # This code is written at BigVision LLC. It is based on the OpenCV project. It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
 
-# Usage example:  python3 object_detection_yolo.py --video=run.mp4
-#                 python3 object_detection_yolo.py --image=bird.jpg
-
 import cv2 as cv
 import argparse
 import sys
@@ -13,8 +10,8 @@ import os.path
 confThreshold = 0.5  # Confidence threshold
 nmsThreshold = 0.4  # Non-maximum suppression threshold
 
-inpWidth = 416  # 608     #Width of network's input image
-inpHeight = 416  # 608     #Height of network's input image
+inpWidth = 416  # 608     # Width of network's input image
+inpHeight = 416  # 608     # Height of network's input image
 
 parser = argparse.ArgumentParser(
     description='Object Detection using YOLO in OPENCV')
@@ -32,7 +29,7 @@ with open(classesFile, 'rt') as f:
 # Give the configuration and weight files for the model and load the network using them.
 
 modelConfiguration = "darknet-yolov3.cfg"
-modelWeights = "lapi.weights"
+modelWeights = "model.weights"
 
 net = cv.dnn.readNetFromDarknet(modelConfiguration, modelWeights)
 net.setPreferableBackend(cv.dnn.DNN_BACKEND_OPENCV)
