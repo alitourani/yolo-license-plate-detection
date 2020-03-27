@@ -12,6 +12,8 @@ This project is a License-Plate Detection (LPD) application for vision-based Int
 
 # Usage
 
+Download weight file from [this](https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/ "this") link.
+
 Testing on single image file:
 
 ```
