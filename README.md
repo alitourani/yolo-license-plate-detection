@@ -5,12 +5,12 @@ This project is a License-Plate Detection (LPD) application for vision-based Int
 
 ![Sample Output](http://alitourani.ir/wp-content/uploads/Deep-LPD-AliTourani-SajjadSoroori.png "Sample Output")
 
-# Environment
+## Environment
 
 - Python v.3
 - You Only Look Once (YOLO) v.3
 
-# Usage
+## Usage
 
 Download weight file from [this](https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/ "this") link.
 
@@ -32,7 +32,11 @@ Testing on webcam:
 python object_detection_yolo.py
 ```
 
-# Contributors
+## Citation
+
+1. S. Khazaee, A. Tourani, S. Soroori, A. Shahbahrami, and C. Y. Suen, “**A Real-time License-Plate Detection Method using a Deep Learning Approach**,” 2nd International Conference on Pattern Recognition and Artificial Intelligence, Zhongshan, 2020. ([link](https://users.encs.concordia.ca/~icprai20/ "link"))
+
+## Contributors
 
 - [Sajjad Soroori](https://github.com/SajjadSo "Sajjad Soroori")
 - [Ali Tourani](https://github.com/alitourani "Ali Tourani")
