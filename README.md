@@ -37,7 +37,7 @@ python object_detection_yolo.py
 Please cite us as below formation:
 1. S. Khazaee, A. Tourani, S. Soroori, A. Shahbahrami, and C. Y. Suen, “**A Real-time License-Plate Detection Method using a Deep Learning Approach**,” 2nd International Conference on Pattern Recognition and Artificial Intelligence, Zhongshan, 2020. ([link](https://users.encs.concordia.ca/~icprai20/ "link"))
 
-## Contributors
+## Collaborators
 
 - [Sajjad Soroori](https://github.com/SajjadSo "Sajjad Soroori")
 - [Ali Tourani](https://github.com/alitourani "Ali Tourani")
