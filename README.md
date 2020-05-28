@@ -2,7 +2,7 @@
 
 This repository contains a method to detect **Iranian vehicle license plates** as a representation of vehicle presence in an image. We have utilized **You Only Look Once version 3 (YOLO v.3)** to detect the license plates inside an input image. The method has the advantages of high accuracy and real-time performance, according to YOLO v.3 architecture. The presented system receives a series of vehicle images and produces the processed image with added bounding-boxes containing the vehicles' license plates. The flow of how we have trained and tested the application is published in a paper accessible from the citation section.
 
-![Sample output of the system](http://alitourani.ir/wp-content/uploads/Ali-Tourani-Sajjad-Soroori-Deep-Learning-LPD.png "Sample Output")
+![Sample output of the system](Ali-Tourani-Sajjad-Soroori-Deep-Learning-LPD.png "Sample Output")
 
 ## Environment
 
