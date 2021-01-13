@@ -32,6 +32,12 @@ Test on the webcam:
 python object_detection_yolo.py
 ```
 
+### Contributers
+
+<a href="https://github.com/alitourani/yolo-license-plate-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alitourani/yolo-license-plate-detection" />
+</a>
+
 ## Citation
 
 Please cite us as below formation:
